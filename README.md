@@ -34,10 +34,8 @@ Accuracy calculation
 
 The model was evaluated using accuracy score on training and test data.
 
-Training Accuracy: XX.XX%
-Testing Accuracy: XX.XX%
-
-Replace XX.XX% with your actual results.
+Training Accuracy: 83.42%
+Testing Accuracy: 76.19%
 
 🧾 Libraries Used
 Python 🐍
