@@ -61,7 +61,7 @@ python main.py
 The Logistic Regression model performs well on sonar data and is able to classify rocks and mines with good accuracy. Performance may vary depending on train-test split and data preprocessing.
 
 📌 Future Improvements
-Try advanced models (SVM, Random Forest, XGBoost)
-Hyperparameter tuning
-Feature selection techniques
-Cross-validation for better evaluation
+-Try advanced models (SVM, Random Forest, XGBoost)
+-Hyperparameter tuning
+-Feature selection techniques
+-Cross-validation for better evaluation
