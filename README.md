@@ -1,22 +1,26 @@
-# rock-mine-prediction
-🪨 Rock vs Mine Prediction using Sonar Data
+Rock vs Mine Prediction using Sonar Data
 
-This project uses Machine Learning (Logistic Regression) to classify whether an object detected by sonar signals is a rock or a mine. The dataset contains sonar readings bounced off objects, and the model learns patterns to make predictions.
+This project uses Machine Learning (Logistic Regression) to classify whether an object detected by sonar signals is a Rock or a Mine.
+
+The dataset contains sonar readings bounced off underwater objects, and the model learns patterns to make predictions.
 
 📌 Project Overview
 
 The goal of this project is to build a binary classification model that can distinguish between:
 
-🪨 Rock
-💣 Mine
+Rock
+Mine
 
 We use the Sonar dataset, which contains 60 numerical features representing sound wave reflections.
 
 🧠 Algorithm Used
 Logistic Regression
-A supervised learning algorithm used for binary classification.
-Works well for linearly separable data.
-Outputs probability between 0 and 1.
+
+A supervised learning algorithm used for binary classification:
+
+Works well for linearly separable data
+Outputs probability between 0 and 1
+Simple and efficient for baseline models
 📊 Dataset Information
 Total Features: 60
 Target Classes:
@@ -31,17 +35,15 @@ Model training (Logistic Regression)
 Model evaluation
 Accuracy calculation
 🧪 Model Performance
-
-The model was evaluated using accuracy score on training and test data.
-
 Training Accuracy: 83.42%
 Testing Accuracy: 76.19%
-
 🧾 Libraries Used
 Python 🐍
 NumPy
 Pandas
 Scikit-learn
+🚀 How to Run the Project
+Clone the repository:
 🚀 How to Run the Project
 # Clone repository
 git clone https://github.com/your-username/rock-mine-prediction.git
