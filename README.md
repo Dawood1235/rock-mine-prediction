@@ -10,8 +10,8 @@ The dataset contains sonar readings bounced off underwater objects, and the mode
 
 The goal of this project is to build a binary classification model that can distinguish between:
 
-Rock
-Mine
+*Rock
+*Mine
 
 We use the Sonar dataset, which contains 60 numerical features representing sound wave reflections.
 
@@ -22,42 +22,42 @@ Logistic Regression
 
 A supervised learning algorithm used for binary classification:
 
-Works well for linearly separable data
-Outputs probability between 0 and 1
-Simple and efficient for baseline models
+*Works well for linearly separable data
+*Outputs probability between 0 and 1
+*Simple and efficient for baseline models
 
 ---
 
 📊 Dataset Information
-Total Features: 60
-Target Classes:
-R → Rock
-M → Mine
-Data Type: Numerical sonar signal values
+*Total Features: 60
+*Target Classes:
+*R → Rock
+*M → Mine
+*Data Type: Numerical sonar signal values
 
 ---
 
 ⚙️ Workflow
-Import dataset
-Data preprocessing
-Train-test split
-Model training (Logistic Regression)
-Model evaluation
-Accuracy calculation
+*Import dataset
+*Data preprocessing
+*Train-test split
+*Model training (Logistic Regression)
+*Model evaluation
+*Accuracy calculation
 
 ---
 
 🧪 Model Performance
-Training Accuracy: 83.42%
-Testing Accuracy: 76.19%
+*Training Accuracy: 83.42%
+*Testing Accuracy: 76.19%
 
 ---
 
 🧾 Libraries Used
-Python 🐍
-NumPy
-Pandas
-Scikit-learn
+*Python 🐍
+*NumPy
+*Pandas
+*Scikit-learn
 
 ---
 
